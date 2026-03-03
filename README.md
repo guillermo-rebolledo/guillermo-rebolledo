@@ -70,7 +70,7 @@ I care a lot about:
 - Evolved a shared design system used across Web, Extension, and Mobile
 - Added unit/integration coverage across key flows and supported QA automation for end-to-end tests
 
-These are the kinds of problems I love: **scaling UI quality, improving confidence in releases, and making products feel great to use.**  [oai_citation:3‡GuillermoOrtizCV.pdf](sediment://file_00000000189871f5bae5d4502a07ba8f)
+These are the kinds of problems I love: **scaling UI quality, improving confidence in releases, and making products feel great to use.**
 
 ---
 
