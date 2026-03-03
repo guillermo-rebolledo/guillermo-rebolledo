@@ -79,12 +79,12 @@ These are the kinds of problems I love: **scaling UI quality, improving confiden
 ### Cerby — Senior Frontend Engineer
 **Sep 2021 – Nov 2025**
 
-Worked on accessibility, performance, product instrumentation, design systems, and testing across enterprise-facing web experiences. Led a 4-person frontend effort to ship a migration tool and helped improve release confidence with stronger test coverage.  [oai_citation:4‡GuillermoOrtizCV.pdf](sediment://file_00000000189871f5bae5d4502a07ba8f)
+Worked on accessibility, performance, product instrumentation, design systems, and testing across enterprise-facing web experiences. Led a 4-person frontend effort to ship a migration tool and helped improve release confidence with stronger test coverage.
 
 ### Wizeline — Software Engineer
 **Jul 2018 – Sep 2021**
 
-Built and maintained products for clients including **Dow Jones / Wall Street Journal** and **Golden State Warriors / Chase Center**, and led a Slack-integrated internal product used in onboarding and company culture workflows.  [oai_citation:5‡GuillermoOrtizCV.pdf](sediment://file_00000000189871f5bae5d4502a07ba8f)
+Built and maintained products for clients including **Dow Jones / Wall Street Journal** and **Golden State Warriors / Chase Center**, and led a Slack-integrated internal product used in onboarding and company culture workflows.
 
 ---
 
