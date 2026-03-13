@@ -11,13 +11,17 @@ I care a lot about:
 ## 🚢 Side Projects Shipped
 **PerfLabs** - A production-ready web performance monitoring application built with Next.js 15, featuring automated PageSpeed Insights audits, scheduled monitoring, and comprehensive performance analytics.
 
-[![app link badge](https://img.shields.io/badge/link-8A2BE2)](https://arcdb.app/)
-[![app repo badge](https://img.shields.io/badge/repo-000000)](https://github.com/guillermo-rebolledo/arc-raiders-db)
+[![app link badge](https://img.shields.io/badge/link-8A2BE2)](https://perflabs.dev)
+[![app repo badge](https://img.shields.io/badge/repo-000000)](https://github.com/guillermo-rebolledo/web-perf)
+
+**Marathon** - An Electron app for running JavaScript and TypeScript snippets locally 
+
+[![app repo badge](https://img.shields.io/badge/repo-000000)](https://github.com/guillermo-rebolledo/marathon)
 
 **ArcDB** - Wiki-style site that helps Arc Raiders players have the perfect companion for the game. Used by hundreds of users weekly.
 
-[![app link badge](https://img.shields.io/badge/link-8A2BE2)](https://perflabs.dev)
-[![app repo badge](https://img.shields.io/badge/repo-000000)](https://github.com/guillermo-rebolledo/web-perf)
+[![app link badge](https://img.shields.io/badge/link-8A2BE2)](https://arcdb.app/)
+[![app repo badge](https://img.shields.io/badge/repo-000000)](https://github.com/guillermo-rebolledo/arc-raiders-db)
 
 **Personal Site** 
 
