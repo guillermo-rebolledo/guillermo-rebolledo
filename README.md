@@ -78,7 +78,7 @@ These are the kinds of problems I love: **scaling UI quality, improving confiden
 
 ---
 
-## 💼 Experience snapshot
+## 💼 Work Experience
 
 ### Cerby — Senior Frontend Engineer
 **Sep 2021 – Nov 2025**
@@ -95,6 +95,7 @@ Built and maintained products for clients including **Dow Jones / Wall Street Jo
 ## 🌱 What I’m into right now
 
 - Frontend architecture for complex products
+- DX and tools to improve coding experiences and products
 - Accessibility-first UI patterns
 - Design systems and shared component APIs
 - Performance optimization and real-user metrics
